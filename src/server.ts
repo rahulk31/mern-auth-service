@@ -1,4 +1,4 @@
-function login(username: String) {
+function login(username: string) {
     console.log('You are Logged in ', username);
 }
 
